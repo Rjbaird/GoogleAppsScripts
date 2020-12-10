@@ -1,6 +1,6 @@
 /*
-// =============== Snippet Overview =============== //
-This snippet allows you to make an API Get Request for api following the REST protocol.
+// =============== Function Overview =============== //
+This function allows you to make an API Get Request for api following the REST protocol.
 Simply update the token and baseUrl variables for the api that you are using.
 Call the function as a variable and then pass that variable to another function that parses the data
 
